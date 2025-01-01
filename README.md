@@ -42,5 +42,3 @@ Regularly reconcile budgets with actual expenditures to ensure alignment.
 Identifies discrepancies and potential misallocations.
 
 _stay tuned while I work on this script and update its capabilities_ 
-
-# financial-planning-and-analysis
